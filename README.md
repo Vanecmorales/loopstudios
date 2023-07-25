@@ -2,7 +2,7 @@
 
 Loopstudios is a landing page created with Tailwind CSS, it is designed for the desktop and mobile version.
 
-You can see the demo in the following link 👉 
+You can see the demo in the following link 👉 https://vanecmorales.github.io/loopstudios/
 
 ### Desktop version:
 
