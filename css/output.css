@@ -602,10 +602,6 @@ h5 {
   position: absolute;
 }
 
-.relative {
-  position: relative;
-}
-
 .bottom-0 {
   bottom: 0px;
 }
@@ -811,10 +807,6 @@ h5 {
 
 .pl-12 {
   padding-left: 3rem;
-}
-
-.pr-0 {
-  padding-right: 0px;
 }
 
 .pt-40 {
@@ -1028,8 +1020,16 @@ h5 {
     position: absolute;
   }
 
+  .md\:relative {
+    position: relative;
+  }
+
   .md\:right-0 {
     right: 0px;
+  }
+
+  .md\:top-48 {
+    top: 12rem;
   }
 
   .md\:m-32 {
